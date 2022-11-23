@@ -1,0 +1,321 @@
+<table id="tablepress-25" class="tablepress tablepress-id-25 tablepress-responsive dataTable no-footer" role="grid" aria-describedby="tablepress-25_info">
+<thead>
+<tr class="row-1 odd" role="row"><th class="column-1 sorting" tabindex="0" aria-controls="tablepress-25" rowspan="1" colspan="1" aria-label="First Name: activate to sort column ascending" style="width: 143.012px;">First Name</th><th class="column-2 sorting" tabindex="0" aria-controls="tablepress-25" rowspan="1" colspan="1" aria-label="Last Name: activate to sort column ascending" style="width: 84.2875px;">Last Name</th><th class="column-3 sorting" tabindex="0" aria-controls="tablepress-25" rowspan="1" colspan="1" aria-label="Email: activate to sort column ascending" style="width: 252.363px;">Email</th><th class="column-4 sorting" tabindex="0" aria-controls="tablepress-25" rowspan="1" colspan="1" aria-label="Position Title: activate to sort column ascending" style="width: 171.275px;">Position Title</th><th class="column-5 sorting" tabindex="0" aria-controls="tablepress-25" rowspan="1" colspan="1" aria-label="Room Number: activate to sort column ascending" style="width: 83.0125px;">Room Number</th><th class="column-6 sorting" tabindex="0" aria-controls="tablepress-25" rowspan="1" colspan="1" aria-label="Phone Number: activate to sort column ascending" style="width: 94.25px;">Phone Number</th><th class="column-7 sorting sorting_asc" tabindex="0" aria-controls="tablepress-25" rowspan="1" colspan="1" aria-label="Department: activate to sort column descending" style="width: 210.125px;" aria-sort="ascending">Department</th></tr>
+</thead>
+<tbody class="row-hover">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<tr class="row-73 even">
+	<td class="column-1">Marisol</td><td class="column-2">Roque Chaves</td><td class="column-3">mroquechaves@peralta.edu</td><td class="column-4">Admissions and Records Technician</td><td class="column-5">R - 114</td><td class="column-6">(510) 434-3979</td><td class="column-7">Admissions and Records</td>
+</tr><tr class="row-106 odd">
+	<td class="column-1">Susana</td><td class="column-2">de la Torre</td><td class="column-3">sdelatorre@peralta.edu</td><td class="column-4">Admissions and Records Specialist</td><td class="column-5">R114A</td><td class="column-6">(510) 436-2598</td><td class="column-7">Admissions and Records</td>
+</tr><tr class="row-71 even">
+	<td class="column-1">Maria</td><td class="column-2">Valencia</td><td class="column-3">mvalencia@peralta.edu&gt;</td><td class="column-4">Admissions and Records Clerk</td><td class="column-5"></td><td class="column-6">(510) 436-2487</td><td class="column-7">Admissions and Records</td>
+</tr><tr class="row-77 odd">
+	<td class="column-1">Maryhelen</td><td class="column-2">Kaufman</td><td class="column-3">mkaufman@peralta.edu</td><td class="column-4">Admissions and Records Clerk</td><td class="column-5">R-114</td><td class="column-6">510 436-2590</td><td class="column-7">Admissions and Records</td>
+</tr><tr class="row-24 even">
+	<td class="column-1">Dawn</td><td class="column-2">Williams</td><td class="column-3">dswilliams@peralta.edu</td><td class="column-4">Program Director</td><td class="column-5">S-337</td><td class="column-6">510.436.2423</td><td class="column-7">ADN</td>
+</tr><tr class="row-21 odd">
+	<td class="column-1">Danae</td><td class="column-2">martinez</td><td class="column-3">Dlmartinez@peralta.edu</td><td class="column-4">Full time faculty</td><td class="column-5">A204</td><td class="column-6">5103029033</td><td class="column-7">African American studies</td>
+</tr><tr class="row-113 even">
+	<td class="column-1">Usha</td><td class="column-2">Mortensen</td><td class="column-3">umortensen@peralta.edu</td><td class="column-4">Program Specialist</td><td class="column-5">S</td><td class="column-6">(510)434-3930</td><td class="column-7">Allied Health</td>
+</tr><tr class="row-72 odd">
+	<td class="column-1">Marie</td><td class="column-2">Amboy</td><td class="column-3">mamboy@peralta.edu</td><td class="column-4">Dean</td><td class="column-5">S-440</td><td class="column-6">510-436-2515 (office line)</td><td class="column-7">Allied Health and Public Safety (Division III)</td>
+</tr><tr class="row-101 even">
+	<td class="column-1">Sheila</td><td class="column-2">Metcalf Tobin</td><td class="column-3">smetcalftobin@peralta.edu</td><td class="column-4">Full Time Faculty and Arts Department co-chair</td><td class="column-5">A122</td><td class="column-6">(510)436-2636</td><td class="column-7">Arts Department</td>
+</tr><tr class="row-80 odd">
+	<td class="column-1">Minh</td><td class="column-2">Dao</td><td class="column-3">mdao@peralta.edu</td><td class="column-4">Student Personnel Services Specialist</td><td class="column-5">R-109</td><td class="column-6">510-436-2562</td><td class="column-7">Assessment</td>
+</tr><tr class="row-62 even">
+	<td class="column-1">Liana</td><td class="column-2">Gerardo</td><td class="column-3">Lgerardo@peralta.edu</td><td class="column-4">Athletic Trainer</td><td class="column-5">F105</td><td class="column-6">510-436-2659</td><td class="column-7">Athletics</td>
+</tr><tr class="row-70 odd">
+	<td class="column-1">Maria</td><td class="column-2">Suarez Rodriguez</td><td class="column-3">msrodriguez@peralta.edu</td><td class="column-4">Tenured Faculty</td><td class="column-5">S423</td><td class="column-6"></td><td class="column-7">Biology</td>
+</tr><tr class="row-56 even">
+	<td class="column-1">Kinga</td><td class="column-2">Sidzinska</td><td class="column-3">ksidzinska@peralta.edu</td><td class="column-4">Science Lab Coordinator /Biology and Microbiology</td><td class="column-5">S404</td><td class="column-6">510 434 3969</td><td class="column-7">Biology Department</td>
+</tr><tr class="row-50 odd">
+	<td class="column-1">John</td><td class="column-2">Rodriguez</td><td class="column-3">jerodriguez@peralta.edu</td><td class="column-4">Full-time Biology Instructor</td><td class="column-5">S-424</td><td class="column-6">N/A</td><td class="column-7">Biology Department</td>
+</tr><tr class="row-7 even">
+	<td class="column-1">Arja</td><td class="column-2">McCray</td><td class="column-3">amccray@peralta.edu</td><td class="column-4">Biology faculty</td><td class="column-5">S 426</td><td class="column-6">510-436-2584</td><td class="column-7">Biology Department</td>
+</tr><tr class="row-85 odd">
+	<td class="column-1">Nancy</td><td class="column-2">Rauch</td><td class="column-3">nrauch@peralta.edu</td><td class="column-4">Instructor</td><td class="column-5">S 427</td><td class="column-6">510 436 2616</td><td class="column-7">Biology/Chemistry</td>
+</tr><tr class="row-33 even">
+	<td class="column-1">Fereshteh</td><td class="column-2">Mofidi</td><td class="column-3">femofidi@peralta.edu</td><td class="column-4">Tenured  Faculty and Business and Real Estate Chair</td><td class="column-5">P111</td><td class="column-6">(925) 247-4240</td><td class="column-7">Business</td>
+</tr><tr class="row-23 odd">
+	<td class="column-1">David</td><td class="column-2">Pounds</td><td class="column-3">DPounds@peralta.edu</td><td class="column-4">Senior Store Room Keeper</td><td class="column-5">R 013</td><td class="column-6">510 436-2526</td><td class="column-7">Business</td>
+</tr><tr class="row-5 even">
+	<td class="column-1">Anthony</td><td class="column-2">Walker</td><td class="column-3">awalker@peralta.edu</td><td class="column-4">Lead Custodian</td><td class="column-5">R012</td><td class="column-6">5104362525</td><td class="column-7">Business</td>
+</tr><tr class="row-108 odd">
+	<td class="column-1">Tara</td><td class="column-2">Marrero</td><td class="column-3">tmarrero@perlta.edu</td><td class="column-4">Facilities Services Specialist</td><td class="column-5">Q232</td><td class="column-6">510-434-3967</td><td class="column-7">Business &amp; Administration</td>
+</tr><tr class="row-93 even">
+	<td class="column-1">Ron</td><td class="column-2">Perez</td><td class="column-3">rperez@peralta.edu</td><td class="column-4">Staff Services Specialist</td><td class="column-5"></td><td class="column-6">510-436-2406</td><td class="column-7">Business Office</td>
+</tr><tr class="row-68 odd">
+	<td class="column-1">Maria</td><td class="column-2">Perez</td><td class="column-3">mariaperez@peralra.edu</td><td class="column-4">Bursar</td><td class="column-5"></td><td class="column-6">(510)436-2402</td><td class="column-7">Business Office</td>
+</tr><tr class="row-64 even">
+	<td class="column-1">Lilian</td><td class="column-2">Pires</td><td class="column-3">lpires@peralta.edu</td><td class="column-4">Principal Financial Analyst</td><td class="column-5">Q230</td><td class="column-6">510-436-2693</td><td class="column-7">Business Services</td>
+</tr><tr class="row-57 odd">
+	<td class="column-1">La Vora</td><td class="column-2">Mathis-Payne</td><td class="column-3">lmathis@peralta.edu</td><td class="column-4">CalWORKs Counselor</td><td class="column-5">R-123</td><td class="column-6">(510) 436-2449</td><td class="column-7">CalWORKs</td>
+</tr><tr class="row-3 even">
+	<td class="column-1">Alice</td><td class="column-2">Chinn</td><td class="column-3">achinn@peralta.edu</td><td class="column-4">Staff Assistant</td><td class="column-5">A109</td><td class="column-6">Office at Merritt 434-3927. Google Voice Mail 510-545-2413</td><td class="column-7">Child Development</td>
+</tr><tr class="row-10 odd">
+	<td class="column-1">Bonnie</td><td class="column-2">Rippberger</td><td class="column-3">brippberger@peralta.edu</td><td class="column-4">Adjunct Faculty/ Instructional Assistant</td><td class="column-5">A-106</td><td class="column-6">510 434 3968</td><td class="column-7">Child Development</td>
+</tr><tr class="row-40 even">
+	<td class="column-1">Hilary</td><td class="column-2">Altman</td><td class="column-3">haltman@peralta.edu</td><td class="column-4">Instructor and Chair</td><td class="column-5">A201</td><td class="column-6">510-436-2510</td><td class="column-7">Communication</td>
+</tr><tr class="row-94 odd">
+	<td class="column-1">Ronald</td><td class="column-2">Moss</td><td class="column-3">rmoss@peralta.edu</td><td class="column-4">Faculty</td><td class="column-5">P301</td><td class="column-6">(510) 250-2773</td><td class="column-7">Community Social Services / Substance Abuse</td>
+</tr><tr class="row-18 even">
+	<td class="column-1">Courtney</td><td class="column-2">Brown</td><td class="column-3">courtneybrown@peralta.edu</td><td class="column-4">Co-chair Business and Technology</td><td class="column-5">P206A</td><td class="column-6">5104343986</td><td class="column-7">Computer Science, Cybersecurity, CIS</td>
+</tr><tr class="row-28 odd">
+	<td class="column-1">Econzi</td><td class="column-2">Musa</td><td class="column-3">emusa@peralta.edu</td><td class="column-4">Staff Assistant</td><td class="column-5"></td><td class="column-6">510-629-1723</td><td class="column-7">COSER Program</td>
+</tr><tr class="row-107 even">
+	<td class="column-1">Sylver</td><td class="column-2">Daniel</td><td class="column-3">sdaniel@peralta.edu</td><td class="column-4">Sr. Clerical Assistant II</td><td class="column-5">R-109</td><td class="column-6">510-436-2696</td><td class="column-7">Counseling</td>
+</tr><tr class="row-96 odd">
+	<td class="column-1">Roniqua</td><td class="column-2">Cook-Greene</td><td class="column-3">Rcgreene@peralta.edu</td><td class="column-4">Next-Up Counselor</td><td class="column-5">R-109U</td><td class="column-6">(510)436-2475</td><td class="column-7">Counseling</td>
+</tr><tr class="row-97 even">
+	<td class="column-1">Rosa</td><td class="column-2">Perez</td><td class="column-3">rperezflores@peralta.edu</td><td class="column-4">FYE Counselor/Coordinator and Counseling Department Co-Chair</td><td class="column-5">R-105D</td><td class="column-6">510-434-3972</td><td class="column-7">Counseling</td>
+</tr><tr class="row-13 odd">
+	<td class="column-1">Carlos</td><td class="column-2">McLean</td><td class="column-3">cmclean@peralta.edu</td><td class="column-4">Counselor</td><td class="column-5">R-109</td><td class="column-6">(510) 436-2475</td><td class="column-7">Counseling</td>
+</tr><tr class="row-61 even">
+	<td class="column-1">Lesley</td><td class="column-2">Scurry</td><td class="column-3">lscurry@peralta.edu</td><td class="column-4">Counselor</td><td class="column-5">R109M</td><td class="column-6">5104362686</td><td class="column-7">Counseling</td>
+</tr><tr class="row-74 odd">
+	<td class="column-1">Marissa</td><td class="column-2">Yenpasook</td><td class="column-3">myenpasook@peralta.edu</td><td class="column-4">Counselor</td><td class="column-5"></td><td class="column-6"></td><td class="column-7">Counseling</td>
+</tr><tr class="row-100 even">
+	<td class="column-1">Sara</td><td class="column-2">Alturk</td><td class="column-3">salturk@peralta.edu</td><td class="column-4">Career &amp; General Counselor</td><td class="column-5">Building R-109K</td><td class="column-6"></td><td class="column-7">Counseling</td>
+</tr><tr class="row-79 odd">
+	<td class="column-1">Mayra</td><td class="column-2">Macias</td><td class="column-3">mmacias@peralta.edu</td><td class="column-4">Adjunct Counselor</td><td class="column-5"></td><td class="column-6"></td><td class="column-7">Counseling</td>
+</tr><tr class="row-53 even">
+	<td class="column-1">Judit</td><td class="column-2">Trinidad</td><td class="column-3">jtlopez@peralta.edu</td><td class="column-4">Adjunct Counselor</td><td class="column-5"></td><td class="column-6">(415)855-0552</td><td class="column-7">Counseling Department</td>
+</tr><tr class="row-104 odd">
+	<td class="column-1">Steve</td><td class="column-2">Pantell</td><td class="column-3">spantell@peralta.edu</td><td class="column-4">Articulation Officer</td><td class="column-5">R-109L</td><td class="column-6">510-436-2573</td><td class="column-7">Counseling/Articulation</td>
+</tr><tr class="row-31 even">
+	<td class="column-1">ETNA</td><td class="column-2">ROSS</td><td class="column-3">EROSS@peralta.edu</td><td class="column-4">GENERAL/EOPS COUNSELOR</td><td class="column-5">R 109</td><td class="column-6">1-510-436-2475</td><td class="column-7">COUNSELING/EOPS</td>
+</tr><tr class="row-26 odd">
+	<td class="column-1">Derrick Ross</td><td class="column-2">Ross</td><td class="column-3">dlross@peralta.edu</td><td class="column-4">Counselor/Instructor</td><td class="column-5"></td><td class="column-6">510-434-3943</td><td class="column-7">Counseling/Sankofa Program</td>
+</tr><tr class="row-16 even">
+	<td class="column-1">Chriss</td><td class="column-2">Foster</td><td class="column-3">cfoster@peralta.edu</td><td class="column-4">Interim Dean</td><td class="column-5">L123</td><td class="column-6">510-434-3897</td><td class="column-7">Division 1, Liberal Arts &amp; Social Sciences</td>
+</tr><tr class="row-15 odd">
+	<td class="column-1">Charlotte</td><td class="column-2">Victorian</td><td class="column-3">cvictorian@peralta.edu</td><td class="column-4">Learning Center Coordinator</td><td class="column-5">L121</td><td class="column-6">(510) 436-2443</td><td class="column-7">Division I - Liberal Arts and Social Sciences</td>
+</tr><tr class="row-25 even">
+	<td class="column-1">Denise</td><td class="column-2">Woodward</td><td class="column-3">dwoodward@peralta.edu</td><td class="column-4">Staff Assistant/Instruction</td><td class="column-5">D-216</td><td class="column-6">(510) 436-2425</td><td class="column-7">Division I, Liberal Arts &amp; Social Sciences</td>
+</tr><tr class="row-84 odd">
+	<td class="column-1">Nancy</td><td class="column-2">Moreno</td><td class="column-3">NMORENO@PERALTA.EDU</td><td class="column-4">Staff Assistant  Dean, Allied Health and Public Safety</td><td class="column-5">S-440</td><td class="column-6">(510)402-2640 (Google phone)</td><td class="column-7">Division III</td>
+</tr><tr class="row-114 even">
+	<td class="column-1">Waaduda</td><td class="column-2">Karim</td><td class="column-3">wkarim@peralta.edu</td><td class="column-4">Senior Clerical Assistant</td><td class="column-5">S-343</td><td class="column-6">510-436-2422</td><td class="column-7">Division III/Allied Health</td>
+</tr><tr class="row-51 odd">
+	<td class="column-1">Jon</td><td class="column-2">Drinnon</td><td class="column-3">jdrinnon@peralta.edu</td><td class="column-4">Professor</td><td class="column-5">F204</td><td class="column-6">(510)434-3922</td><td class="column-7">English</td>
+</tr><tr class="row-43 even">
+	<td class="column-1">Isela</td><td class="column-2">González Santana</td><td class="column-3">isantana@peralta.edu</td><td class="column-4">Faculty &amp; Learning Center Director</td><td class="column-5">L-124</td><td class="column-6">(510) 436-2648 or (510) 701-8611</td><td class="column-7">English &amp; Learning Center</td>
+</tr><tr class="row-32 odd">
+	<td class="column-1">Evan</td><td class="column-2">Nichols</td><td class="column-3">anichols@peralta.edu</td><td class="column-4">Professor</td><td class="column-5">P-108</td><td class="column-6">(510)621-7743</td><td class="column-7">English/ESOL</td>
+</tr><tr class="row-42 even">
+	<td class="column-1">Isela</td><td class="column-2">González Santana</td><td class="column-3">isantana@peralta.edu</td><td class="column-4">English Faculty/Learning Center Director/Puente Co-Coordinator</td><td class="column-5">L-124</td><td class="column-6">(510) 436-2648</td><td class="column-7">English/Learning Center</td>
+</tr><tr class="row-55 odd">
+	<td class="column-1">Kathleen</td><td class="column-2">Whitmore</td><td class="column-3">kolbekson@peralta.edu</td><td class="column-4">Staff Assistant</td><td class="column-5">R-109</td><td class="column-6">510-876-6910 (Cell) 510-436-2470</td><td class="column-7">EOPS</td>
+</tr><tr class="row-17 even">
+	<td class="column-1">cj rose</td><td class="column-2">allen</td><td class="column-3">cjallen@peralta.edu</td><td class="column-4">counselor</td><td class="column-5">r109r</td><td class="column-6">510-436-2572</td><td class="column-7">eops</td>
+</tr><tr class="row-91 odd">
+	<td class="column-1">rachel</td><td class="column-2">ellis</td><td class="column-3">rellis@peralta.edu</td><td class="column-4">CARE Coordinator</td><td class="column-5">R-109P</td><td class="column-6">436-2476</td><td class="column-7">EOPS/CARE</td>
+</tr><tr class="row-4 even">
+	<td class="column-1">Alyson</td><td class="column-2">Hunter</td><td class="column-3">ahunter@peralta.edu</td><td class="column-4">Financial Aid Specialist</td><td class="column-5"></td><td class="column-6">510-436-2486</td><td class="column-7">Financial Aid</td>
+</tr><tr class="row-6 odd">
+	<td class="column-1">Antonia</td><td class="column-2">Andrew</td><td class="column-3">aandrew@peralta.edu</td><td class="column-4">Financial Aid Specialist</td><td class="column-5"></td><td class="column-6">(510) 436-2695</td><td class="column-7">Financial Aid</td>
+</tr><tr class="row-88 even">
+	<td class="column-1">Pauline</td><td class="column-2">Pang-Sagara</td><td class="column-3">Psagara@peralta.edu</td><td class="column-4">Financial Aid Specialist</td><td class="column-5">R-112</td><td class="column-6">510-436-2466</td><td class="column-7">Financial Aid</td>
+</tr><tr class="row-89 odd">
+	<td class="column-1">Pauline</td><td class="column-2">Pang-Sagara</td><td class="column-3">Psagara@peralta.edu</td><td class="column-4">Financial Aid Specialist</td><td class="column-5">R103</td><td class="column-6">510-436-2466</td><td class="column-7">Financial Aid</td>
+</tr><tr class="row-98 even">
+	<td class="column-1">Sahra</td><td class="column-2">Omar</td><td class="column-3">saomar@peralta.edu</td><td class="column-4">Financial Aid Specialist</td><td class="column-5">R-113K</td><td class="column-6">(510) 434-3946</td><td class="column-7">Financial Aid</td>
+</tr><tr class="row-30 odd">
+	<td class="column-1">Ernesto</td><td class="column-2">Nery</td><td class="column-3">ernieneryjr@aol.com</td><td class="column-4">Director, Financial Aid</td><td class="column-5">R-113</td><td class="column-6">510-436-2467</td><td class="column-7">Financial Aid</td>
+</tr><tr class="row-75 even">
+	<td class="column-1">Marlo</td><td class="column-2">Beall</td><td class="column-3">mlbeall@peralta.edu</td><td class="column-4">Counselor</td><td class="column-5">R-109</td><td class="column-6">(510) 436-2475</td><td class="column-7">General Counseling</td>
+</tr><tr class="row-99 odd">
+	<td class="column-1">Samantha</td><td class="column-2">Wong</td><td class="column-3">samanthawong@peralta.edu</td><td class="column-4">Adjunct Counselor</td><td class="column-5"></td><td class="column-6"></td><td class="column-7">General Counseling</td>
+</tr><tr class="row-37 even">
+	<td class="column-1">Grace Olufunmilayo</td><td class="column-2">Idowu</td><td class="column-3">gidowu@peralta.edu</td><td class="column-4">Full Time Faculty</td><td class="column-5">S 321</td><td class="column-6">5104343886</td><td class="column-7">HEALTH and Fire Science - MEDAS Program</td>
+</tr><tr class="row-19 odd">
+	<td class="column-1">Dale</td><td class="column-2">Nabeta</td><td class="column-3">dnabeta@peralta.edu</td><td class="column-4">Network Support Services Specialist</td><td class="column-5">A120</td><td class="column-6">(510) 434-3905</td><td class="column-7">IT</td>
+</tr><tr class="row-12 even">
+	<td class="column-1">Brock</td><td class="column-2">Drazen</td><td class="column-3">Bdrazen@peralta.edu</td><td class="column-4">Athletic Director/Head Coach/Kin Faculty</td><td class="column-5">F206</td><td class="column-6">510-436-2545</td><td class="column-7">Kinesiology/Athletics</td>
+</tr><tr class="row-41 odd">
+	<td class="column-1">Inga</td><td class="column-2">Marciulionis</td><td class="column-3">imarciulionis@peralta.edu</td><td class="column-4">Full time instructor, Kinesiology Department Chair</td><td class="column-5">F 205</td><td class="column-6">510.434.3849</td><td class="column-7">Kinesiology/Athletics/Health Ed.</td>
+</tr><tr class="row-59 even">
+	<td class="column-1">Laura</td><td class="column-2">Forlin</td><td class="column-3">Lforlin@peralta.edu</td><td class="column-4">Co-chair Landscape Horticulture</td><td class="column-5"></td><td class="column-6">510-436-2418</td><td class="column-7">Landscape Horticulture</td>
+</tr><tr class="row-78 odd">
+	<td class="column-1">Maura</td><td class="column-2">Sealund</td><td class="column-3">msealund@peralta.edu</td><td class="column-4">Coordinator</td><td class="column-5">H107</td><td class="column-6">510-436-2491</td><td class="column-7">Landscape Horticulture /ENVMT</td>
+</tr><tr class="row-115 even">
+	<td class="column-1">Walter</td><td class="column-2">Johnson</td><td class="column-3">wjohnson@peralta.edu</td><td class="column-4">Computer Assis./Instructional Aid</td><td class="column-5">L-131</td><td class="column-6">510-436-2551</td><td class="column-7">Learning Center</td>
+</tr><tr class="row-46 odd">
+	<td class="column-1">James</td><td class="column-2">Gordon</td><td class="column-3">jgordon@peralta.edu</td><td class="column-4">Principal Library Technician</td><td class="column-5">L-200</td><td class="column-6">436-2554</td><td class="column-7">Library</td>
+</tr><tr class="row-87 even">
+	<td class="column-1">Nghiem</td><td class="column-2">Thai</td><td class="column-3">nthai@peralta.edu</td><td class="column-4">Librarian</td><td class="column-5">L-302</td><td class="column-6">(510) 436-2461</td><td class="column-7">Library</td>
+</tr><tr class="row-2 odd">
+	<td class="column-1">Adoria</td><td class="column-2">Williams</td><td class="column-3">Arwilliams@peralta.edu</td><td class="column-4">Co-Director, Library / Instructor</td><td class="column-5">L Building</td><td class="column-6">(510) 436-2464</td><td class="column-7">Library</td>
+</tr><tr class="row-29 even">
+	<td class="column-1">Eli</td><td class="column-2">Lebow</td><td class="column-3">elebow@peralta.edu</td><td class="column-4">Part-time faculty</td><td class="column-5"></td><td class="column-6"></td><td class="column-7">Math</td>
+</tr><tr class="row-90 odd">
+	<td class="column-1">quynh nhu</td><td class="column-2">lamha</td><td class="column-3">qnlamha@peralta.edu</td><td class="column-4">part time math instructor</td><td class="column-5"></td><td class="column-6">408-900-9191</td><td class="column-7">math</td>
+</tr><tr class="row-81 even">
+	<td class="column-1">Minyoung(Michelle)</td><td class="column-2">Lee</td><td class="column-3">Minyounglee@peralta.edu</td><td class="column-4">Adjunct faculty</td><td class="column-5">L138A(Math Lab)</td><td class="column-6">(510)213-8225</td><td class="column-7">Math</td>
+</tr><tr class="row-111 odd">
+	<td class="column-1">Thomas</td><td class="column-2">Renbarger</td><td class="column-3">trenbarger@peralta.edu</td><td class="column-4">Professor of Physics and Astronomy</td><td class="column-5">S-412</td><td class="column-6">(510) 434-3921</td><td class="column-7">Math and Physical Sciences</td>
+</tr><tr class="row-110 even">
+	<td class="column-1">Teresa</td><td class="column-2">Williams</td><td class="column-3">twilliams@peralta.edu</td><td class="column-4">Earth Science Instructor</td><td class="column-5"></td><td class="column-6"></td><td class="column-7">Math and Physical Sciences</td>
+</tr><tr class="row-105 odd">
+	<td class="column-1">Sun Young</td><td class="column-2">Ban</td><td class="column-3">syban@peralta.edu</td><td class="column-4">Mathematics Instructor</td><td class="column-5">S-317</td><td class="column-6">510-436-2610</td><td class="column-7">Math and Physical Sciences Department</td>
+</tr><tr class="row-20 even">
+	<td class="column-1">Dan</td><td class="column-2">Lawson</td><td class="column-3">dlawson@peralta.edu</td><td class="column-4">Math Instructor</td><td class="column-5">S-320</td><td class="column-6">(510)436-2676</td><td class="column-7">Mathematics</td>
+</tr><tr class="row-112 odd">
+	<td class="column-1">Tu</td><td class="column-2">Hoang</td><td class="column-3">tuhoang@peralta.edu</td><td class="column-4">Adjunct Faculty</td><td class="column-5"></td><td class="column-6">4084295790</td><td class="column-7">Mathematics</td>
+</tr><tr class="row-83 even">
+	<td class="column-1">MUWAFAQU</td><td class="column-2">AL ASAD</td><td class="column-3">malasad@peralta.edu</td><td class="column-4">Adjunct Faculty</td><td class="column-5">S-318 #3</td><td class="column-6">510-468-1861</td><td class="column-7">MEDAS/ALLIED HEALTH</td>
+</tr><tr class="row-52 odd">
+	<td class="column-1">Jon</td><td class="column-2">Murphy</td><td class="column-3">jmurphy@peralta.edu</td><td class="column-4">Program Director</td><td class="column-5">S-303</td><td class="column-6">510-384-4930</td><td class="column-7">Medical Assisting</td>
+</tr><tr class="row-8 even">
+	<td class="column-1">Asia</td><td class="column-2">Capers</td><td class="column-3">acapers@peralta.edu</td><td class="column-4">Clerical Assistant II</td><td class="column-5"></td><td class="column-6">(510)436-2436</td><td class="column-7">Merritt Children Center</td>
+</tr><tr class="row-11 odd">
+	<td class="column-1">Brenda</td><td class="column-2">Mora</td><td class="column-3">bmora@peralta.edu</td><td class="column-4">Coordinator/Fruitvale</td><td class="column-5">TBD</td><td class="column-6">925-587-6387</td><td class="column-7">Merritt College @Fruitvale</td>
+</tr><tr class="row-103 even">
+	<td class="column-1">Stefani</td><td class="column-2">de Vito</td><td class="column-3">sdevito@peralta.edu</td><td class="column-4">Health Services Coordinator</td><td class="column-5">R-106</td><td class="column-6">(510) 436-2468</td><td class="column-7">Merritt Health Center</td>
+</tr><tr class="row-82 odd">
+	<td class="column-1">Monica</td><td class="column-2">Ambalal</td><td class="column-3">mambalal@peralta.edu</td><td class="column-4">Professor of Music</td><td class="column-5">A117</td><td class="column-6">510-4362410</td><td class="column-7">Music</td>
+</tr><tr class="row-38 even">
+	<td class="column-1">Heather</td><td class="column-2">Casale</td><td class="column-3">hcasale@peralta.edu</td><td class="column-4">Nutrition and Dietetics Program Director</td><td class="column-5">S323</td><td class="column-6">510-434-3834</td><td class="column-7">Nutrition and Dietetics</td>
+</tr><tr class="row-58 odd">
+	<td class="column-1">LaShaune</td><td class="column-2">Fitch</td><td class="column-3">lfitch@peralta.edu</td><td class="column-4">Curriculum Specialist</td><td class="column-5">L304</td><td class="column-6">510-434-3860</td><td class="column-7">Office of Instruction</td>
+</tr><tr class="row-48 even">
+	<td class="column-1">Jane</td><td class="column-2">Garner-Fong</td><td class="column-3">jfong@peralta.edu</td><td class="column-4">Academic Support Services Specialist</td><td class="column-5">Q305</td><td class="column-6">510-436-25415</td><td class="column-7">Office of Instruction</td>
+</tr><tr class="row-39 odd">
+	<td class="column-1">Henry</td><td class="column-2">Mai</td><td class="column-3">hmai@peralta.edu</td><td class="column-4">Web Content Developer</td><td class="column-5">Building Q-300</td><td class="column-6">4084751128</td><td class="column-7">Office of the President</td>
+</tr><tr class="row-22 even">
+	<td class="column-1">David</td><td class="column-2">Johnson</td><td class="column-3">dmjohnson@peralta.edu</td><td class="column-4">President</td><td class="column-5">Q-300</td><td class="column-6">510-436-2501</td><td class="column-7">Office of the President</td>
+</tr><tr class="row-9 odd">
+	<td class="column-1">Berenise</td><td class="column-2">Herrera</td><td class="column-3">bherrera@peralta.edu</td><td class="column-4">Executive Assistant</td><td class="column-5">Q300</td><td class="column-6">(510) 436-2416</td><td class="column-7">Office of the President</td>
+</tr><tr class="row-86 even">
+	<td class="column-1">Nathan</td><td class="column-2">Pellegrin</td><td class="column-3">npellegrin@peralta.edu</td><td class="column-4">Director of Research &amp; Planning</td><td class="column-5">L304</td><td class="column-6">(510) 436-2558</td><td class="column-7">Office of the President</td>
+</tr><tr class="row-65 odd">
+	<td class="column-1">Linnea</td><td class="column-2">Willis</td><td class="column-3">Lwillis@peralta.edu</td><td class="column-4">Professor and Program Director</td><td class="column-5">P206B</td><td class="column-6">5105890207</td><td class="column-7">Paralegal Studies Department</td>
+</tr><tr class="row-49 even">
+	<td class="column-1">Jennifer</td><td class="column-2">Yates</td><td class="column-3">jyates@peralta.edu</td><td class="column-4">Program Director</td><td class="column-5">S325</td><td class="column-6">510-436-2427</td><td class="column-7">Radiologic Science</td>
+</tr><tr class="row-45 odd">
+	<td class="column-1">Jacqueline</td><td class="column-2">Custard</td><td class="column-3">jcustard@peralta.edu</td><td class="column-4">Instructor</td><td class="column-5">S319</td><td class="column-6">510-436-2508</td><td class="column-7">Radiologic Science</td>
+</tr><tr class="row-35 even">
+	<td class="column-1">Geneva</td><td class="column-2">Toliver</td><td class="column-3">gtoliver@peralta.edu</td><td class="column-4">Instructional Assistant</td><td class="column-5">R-109</td><td class="column-6">(510) 436- 2429   google voice?(510) 519-7085?</td><td class="column-7">SAS</td>
+</tr><tr class="row-60 odd">
+	<td class="column-1">Lee</td><td class="column-2">Peevy</td><td class="column-3">lpeevy@peralta.edu</td><td class="column-4">Alternate Media Technology Specialist</td><td class="column-5">P304</td><td class="column-6">5104343910</td><td class="column-7">SAS</td>
+</tr><tr class="row-92 even">
+	<td class="column-1">Reagan</td><td class="column-2">Pruitt</td><td class="column-3">rpruitt@peralta.edu</td><td class="column-4">Staff Assistant</td><td class="column-5">R-109A</td><td class="column-6">510 436 2519</td><td class="column-7">SAS(DSPS)</td>
+</tr><tr class="row-44 odd">
+	<td class="column-1">Jack</td><td class="column-2">Smith Jr.</td><td class="column-3">jackiesmith@peralta.edu</td><td class="column-4">SAS Counselor/Instructor</td><td class="column-5">R 109 D</td><td class="column-6">(510) 434-3818</td><td class="column-7">Student Accessability Services (SAS)</td>
+</tr></tbody>
+</table>
